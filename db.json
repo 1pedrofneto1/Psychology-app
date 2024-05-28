@@ -1,0 +1,11 @@
+{
+    "accounts": [
+        {
+            "id": 1,
+            "name": "Pedro Fernandes",
+            "e-mail": "pedrofernandecn@gmail.com",
+            "password": "teste123",
+            "type": "psychologist"
+        }
+    ]
+}
