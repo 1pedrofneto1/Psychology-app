@@ -1,0 +1,13 @@
+div {
+  align-items: center;
+}
+
+.signUpButton {
+  width: 400px;
+  height: 40px;
+  border-radius: 25px;
+  padding: 10px;
+  background-color: #6c16f8;
+  color: #ffffff;
+  margin-top: 80px;
+}

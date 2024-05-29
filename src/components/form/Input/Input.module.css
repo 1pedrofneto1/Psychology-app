@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    color: #ffffff;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    border-radius: 25px;
+    padding: 10px;
+}
